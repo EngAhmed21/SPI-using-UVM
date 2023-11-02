@@ -1,6 +1,6 @@
 vlib work
 
-vlog -f Files.txt +define +SIM +cover
+vlog -f Files.txt +define+SIM +cover
 
 vsim -voptargs=+acc work.RAM_top -cover -sv_seed random
 
