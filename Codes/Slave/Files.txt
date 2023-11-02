@@ -1,0 +1,16 @@
+shared_pkg.sv
+cs_shared_pkg.sv
+slave_intf.sv 
+slave.sv 
+slave_seq_item_pkg.sv 
+slave_config_obj_pkg.sv 
+slave_driver_pkg.sv 
+slave_monitor_pkg.sv 
+slave_sequencer_pkg.sv 
+slave_agent_pkg.sv 
+slave_coverage_pkg.sv 
+slave_scoreboard_pkg.sv 
+slave_env_pkg.sv 
+slave_sequence_pkg.sv 
+slave_test_pkg.sv 
+slave_top.sv
