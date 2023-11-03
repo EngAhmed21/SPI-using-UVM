@@ -1,6 +1,6 @@
 # SPI-using-UVM
 
-Implementation of Serial Peripheral Interface (SPI) communication protocol using SystemVerilog and the verification is done using Universal Verification Methodology (UVM)
+Implementation of Serial Peripheral Interface (SPI) communication protocol using SystemVerilog and the verification is done using Universal Verification Methodology (UVM). Every design and verification for each component is in a separate file. The wrapper is the SPI design.  
 
 •	General Knowledge of SPI:                                                                                                                                                                                                                                                               
 Serial peripheral interface (SPI) is one of the most widely used interfaces between microcontroller and peripheral ICs such as sensors, ADCs, DACs, shift registers, SRAM, and others.                                                                                                                                                                                                                                         
